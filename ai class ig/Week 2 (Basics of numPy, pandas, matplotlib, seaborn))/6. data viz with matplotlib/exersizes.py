@@ -20,6 +20,3 @@ revenue = [250, 400, 150]
 plt.bar(categories, revenue, color="green")
 plt.title("revenue by category")
 plt.show()
-
-"""create a scatter plot"""
-hours_studied
